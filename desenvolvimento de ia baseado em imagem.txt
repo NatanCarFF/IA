@@ -1,0 +1,9 @@
+*desenvolvimento de ia baseado em imagem
+
+-identificar objetos em foco no ambiente
+
+-identificar situações em foco no ambiente
+
+-criar reações de acordo com o que foi identificado usando banco de dados ético
+
+-registrar melhores escolhas para criar perfil próprio
